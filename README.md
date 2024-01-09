@@ -7,5 +7,5 @@ Please follow the steps below after cloning the project to run it locally.
 npm i
 
 # serve at localhost:3000
-npm dev
+npm run dev
 ```
