@@ -6,17 +6,16 @@
   display: flex;
   flex-direction: column;
   gap: 3em;
-  align-items: center;
+  align-items: center;  
+  margin: auto;
 }
 
 .img_container {
   position: relative;
-  height: 100%;
 }
 
 img {
-  width: 40vw;
-  object-fit: cover;
+  height: 600px;
 }
 
 .grid_container {
